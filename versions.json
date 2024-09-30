@@ -22,8 +22,8 @@
     }
   },
   "4.0": {
-    "version": "4.0.13",
-    "sha512": "4172ef70aa4c51fb463c62019643c1d62c16f6c9a175ff4d9d1e869b234983a68694a4167946a3f70d4556f8c5f2494b809090e2cec3cb327956478028e95bf5",
+    "version": "4.0.14",
+    "sha512": "8f6adbbcd4e46a566c6f789a8d18c7478e5f2039a081a6f00c2c4c3ff9dc654fd38bb2f549157e554fc2f174347e47dd1b932cd4c7e71dcc07e58261b692a03e",
     "java": {
       "version": "11"
     },
@@ -33,8 +33,8 @@
     }
   },
   "4.1": {
-    "version": "4.1.6",
-    "sha512": "3bae2a75aefc139ceaa9beb4709f9ee533517937ae292aba0102788cbf08f94f503c707124beaf06e28eca20dacf00a729da326c178bda432adfac2cd32b91c6",
+    "version": "4.1.7",
+    "sha512": "5c5aeaf5d9ee4aab2a901188cd66a6056e4f06c61a6a7c6645f5994484abf8942f7be9a51f638827649f918980ef510760a5a900fd8bdfe3b72c3e40bac1d3cb",
     "java": {
       "version": "11"
     },
@@ -44,8 +44,8 @@
     }
   },
   "5.0": {
-    "version": "5.0.0",
-    "sha512": "cf91d9a5fe370a3b7eab9447852c491de1c17aca5a71c5ff06a672d210f8d6500d973f2d1827250b071ab5e7d6d5d58c0e79dcef5b134913b4a610674d6ae7ed",
+    "version": "5.0.1",
+    "sha512": "0e1f56958c30cb34a2478856be3e9e97615be2aabe6f5d30e3c72f13e0866249f925312b32c8b28a8fdbe09a0a90ae45bdbd32709d6a7378951ad9e8b1c2e074",
     "java": {
       "version": "17"
     },
